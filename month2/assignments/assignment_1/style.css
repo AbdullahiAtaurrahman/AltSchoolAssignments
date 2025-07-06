@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgba(10, 8, 8, 0.945);
+
+}
+
+.container {
+    background-color: aliceblue;
+    color: rgb(37, 27, 27);
+    max-width: 450px;
+    margin-left: 100px;
+    margin-top: 200px;
+    border-radius: 8px;
+    padding: 30px;
+    font-size: 1.3em;
+    padding-bottom: 10px;
+}
+
+.header {
+    color: rgb(7, 7, 31);
+    background-color: rgb(255, 0, 242);
+    max-width: 450px;
+    padding: 25px;
+    border-radius: 8px;
+    position: relative;
+    top: -50px;
+}
+
+.text {
+    position: relative;
+    top: -20px;
+}
